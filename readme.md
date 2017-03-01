@@ -1,4 +1,4 @@
-# Local Binary Patterns implementation using Python3
+# Local Binary Patterns implementation using Python 3
 
 `Local Binary Pattern (LBP)` is a simple yet very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number. 
 [Click here to learn more.](http://www.scholarpedia.org/article/Local_Binary_Patterns "Local Binary Pattern (LBP)")
@@ -7,6 +7,7 @@
 The program is coded using Windows 10 (64 bit) operating system with Python version 3.5.2.
 
 The following packages are necessary to run the program:
+
 Package | Version | Installation
 --- | --- | ---
 **OpenCV** | 3.2.0 | `pip install opencv-python`
@@ -23,5 +24,7 @@ The output consists of the gray scale image, LBP representation image and LBP hi
 ### References
 * [Local Binary Patterns with Python & OpenCV](http://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/ "Local Binary Patterns with Python & OpenCV")
 * [Local Binary Patterns Wiki](https://en.wikipedia.org/wiki/Local_binary_patterns "Local Binary Patterns Wiki")
+
+***
 
 ### Feel free to contribute for improvement.
